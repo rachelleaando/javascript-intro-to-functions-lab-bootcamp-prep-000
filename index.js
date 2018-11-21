@@ -1,5 +1,5 @@
 'HELLO!'.toUpperCase() // 'HELLO!'
-'hello!'.toLowerCase() // 'HELLO!'
+'hello!'.toLowerCase() // 'hello!'
 
 
 //** Shout
